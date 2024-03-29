@@ -1,0 +1,1 @@
+Application to register and handle animals from a zoo with several common datapoints (Ids, names, genders, etc.), and general attributes depending on animal type, as well as attributes depending on specific animals. I'm also doing extra features to achieve A's for each assignment.
